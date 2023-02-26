@@ -8,6 +8,9 @@ To use this code for your own project, you can clone or download this repository
 
 The code is provided under the MIT license, which allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to certain conditions.
 
+![website image](clockapp.png)
+
+
 ### Technologies used:
 
 - HTML: for structuring the web page
