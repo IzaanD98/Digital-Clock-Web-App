@@ -1,5 +1,7 @@
 ### Description:
 
+https://izaand98.github.io/Digital-Clock-Web-App/
+
 This is a digital clock web application built using HTML, CSS, and JavaScript. The clock shows the current time in hours, minutes, and seconds, as well as AM or PM. The background of the clock features a beautiful nature image obtained from Unsplash. The clock updates automatically every second.
 
 To run this web application, you can simply open the HTML file in a web browser. The application is designed to work on all modern web browsers.
